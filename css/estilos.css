@@ -1,0 +1,95 @@
+aside {
+    width: 30%;
+    background-color: #141616;
+    top: 0;
+    bottom: 0;
+    float: left;
+    color: #FFFFFF;
+    min-height: 1400px;
+}
+
+aside section {
+    padding-left: 20%;
+}
+
+
+img {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    background-color: honeydew;
+    z-index: 0;
+    height: auto;
+    min-width: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+.titulo, .color {
+    background-color: orange;
+}
+
+
+
+div {
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 80px;
+}
+
+* {
+    font-family: 'Golos Text', sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin: 0px;
+    letter-spacing: 5px;
+}
+
+tr:hover {background-color: coral;}
+
+
+h2 {
+    font-size: medium;
+    font-style: italic;
+}
+
+td {
+    text-align: left;
+}
+
+main {
+    width: 70%;
+    float: right;
+}
+
+ul {
+    list-style-type: square;
+}
+ 
+a {
+    font-size: large;
+    color: #FFFFFF;
+}
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
